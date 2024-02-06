@@ -2,7 +2,7 @@
 
 This project is part of The Odin Project curriculum.
 
-A simple tool to create your own pixel art.
+A simple game of RPS. The game goes on until either the user or the computer gets 5 points.
 
 Created using #html, #css, #javascript.
 
