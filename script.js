@@ -47,3 +47,8 @@ function playRound(playerChoice) {
     scissorsBtn.disabled = true;
   }
 }
+
+const rockBtn = document.getElementById("rock");
+const paperBtn = document.getElementById("paper");
+const scissorsBtn = document.getElementById("scissors");
+const refreshBtn = document.getElementById("refresh");
