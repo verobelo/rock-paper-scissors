@@ -26,3 +26,25 @@ align-items: center;
 margin: auto;
 }
 
+.choices {
+    margin-bottom: 30px;
+}
+
+.choices button, #refresh {
+    font-size: 30px;
+    min-width: 160px;
+    border-radius: 10px;
+    margin: 0 10px;
+    padding: 10px;
+    background-color: rgb(238, 238, 30);
+    cursor: grab;
+    transition: background-color 0,5s ease;
+}
+
+.choices button, #refresh:hover {
+    background-color: rgb(238, 172, 30);
+}
+
+#refresh {
+    margin-top: 30px;
+}
