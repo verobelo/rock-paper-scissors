@@ -11,3 +11,18 @@ body {
         font-family: 'Russo One', sans-serif;
         background-color: rgb(192, 190, 190);
 }
+
+header {        
+    width: 50%;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+
+main {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: auto;
+}
+
